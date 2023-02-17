@@ -1,0 +1,22 @@
+server:
+  port: 81
+spring:
+  boot:
+    admin:
+      client:
+        url: http://localhost:80
+management:
+  endpoint:
+    health:
+      show-details: always
+    info:
+      enabled: on
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+    enabled-by-default: true
+info:
+  appName: @project.artifactId@
+  version: @project.version@
+  author: itheima

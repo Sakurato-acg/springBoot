@@ -1,0 +1,7 @@
+server:
+  port: 80
+
+#debug: true
+logging:
+  level:
+    root: error

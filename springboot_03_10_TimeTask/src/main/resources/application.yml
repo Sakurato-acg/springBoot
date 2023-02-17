@@ -1,0 +1,14 @@
+spring:
+  task:
+    scheduling:
+      # 任务调度线程池大小 默认 1
+      pool:
+        size: 1
+      # 调度线程名称前缀 默认 scheduling-
+      thread-name-prefix: ssm_
+
+      shutdown:
+       # 线程池关闭时等待所有任务完成
+       await-termination: false
+       # 调度线程关闭前最大等待时间，确保最后一定关闭
+       await-termination-period: 10s

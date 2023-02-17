@@ -1,0 +1,27 @@
+server:
+  port: 80
+  servlet:
+    context-path: /test
+spring:
+  banner:
+    image:
+      location: file:${baseDir}e56b7dfd16b5d3d693ede17fd1f76937223902.png
+      bitdepth: 8
+      pixelmode: block
+      invert: on
+      width: 250
+
+  datasource:
+      type: com.alibaba.druid.pool.DruidDataSource
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/anime_library?characterEncoding=utf8&useSSL=false&serverTimezone=UTC&rewriteBatchedStatements=true&nullCatalogMeansCurrent=true
+      username: 2120400146
+      password: 210019
+#  main:
+#    banner-mode: off
+#C:\Users\lpl\Desktop\图\P站\94030972_p0_master1200.jpg
+#C:\Users\lpl\Desktop\图\表情包\money.jpg
+  # C:\Users\lpl\Desktop\图\P站\猫耳ちゃん.jpg
+# C:\Users\lpl\Desktop\图\电脑\70e2eee0cd780aa9b4824bbaba9f640c30682056.gif
+
+baseDir: C:\Users\lpl\Desktop\图\电脑\
