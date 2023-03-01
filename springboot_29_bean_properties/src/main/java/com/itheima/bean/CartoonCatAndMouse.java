@@ -2,16 +2,19 @@ package com.itheima.bean;
 
 import lombok.Data;
 import org.springframework.beans.BeansException;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
 import org.springframework.util.StringUtils;
 
+
 @Data
 @ConditionalOnClass(name="org.springframework.data.redis.core.RedisOperations")
+//@ConditionalOnMissingClass("org.springframework.data.redis.core.RedisOperations")
 @EnableConfigurationProperties(CartoonProperties.class)
-public class CartoonCatAndMouse implements ApplicationContextAware {
+public class CartoonCatAndMouse implements ApplicationContextAware{
     private Cat cat;
     private Mouse mouse;
 
@@ -38,7 +41,7 @@ public class CartoonCatAndMouse implements ApplicationContextAware {
     private ApplicationContext applicationContext;
 
     @Override
-    public void setApplicationContext(ApplicationContext applicationContext) throws BeansException {
+    public void setApplicationContext(@Autowired ApplicationContext applicationContext) throws BeansException {
         this.applicationContext = applicationContext;
     }
 }

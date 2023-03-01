@@ -13,6 +13,6 @@ public class MyRegistrar implements ImportBeanDefinitionRegistrar {
         //1.使用元数据去做判定
 
         BeanDefinition beanDefinition = BeanDefinitionBuilder.rootBeanDefinition(BookServiceImpl2.class).getBeanDefinition();
-        registry.registerBeanDefinition("bookService",beanDefinition);
+        registry.registerBeanDefinition("bookService2",beanDefinition);
     }
 }

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springboot_01_01_quickStart" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot_01_02_baseConfiguration" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot_01_06_ssmp" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot_01_01_quickStart/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_01_02_baseConfiguration/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_01_03_junit/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_01_04_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_01_05_mybatisPlus/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_01_06_ssmp/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_02_config/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_02_log/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_03_02_configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_03_03_test/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_03_04_sql/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_03_05_redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_03_06_mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_03_07_ES/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_03_08_cache/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_03_09_jetcache/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_03_10_TimeTask/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_03_11_mail/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_03_11_mq/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_03_11_mq/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_03_12_mq/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot_03_12_mq/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_03_13_admin/spring_boot_03_13_admin_server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_03_13_admin_server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_03_13_admin_client/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_27_bean_init/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_28_bean_load/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_29_bean_properties/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_30_startup/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="PWA">
+    <option name="wasEnabledAtLeastOnce" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" default="true" project-jdk-name="JavaSE-16" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

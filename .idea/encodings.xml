@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Springboot_03_12_mq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_01_01_quickStart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_01_02_baseConfiguration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_01_02_baseConfiguration/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_01_03_junit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_01_04_mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_01_05_mybatisPlus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_01_05_mybatisPlus/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_01_06_ssmp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_01_06_ssmp/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_02_config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_02_log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_03_02_configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_03_03_test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_03_04_sql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_03_05_redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_03_06_mongodb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_03_07_ES/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_03_08_cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_03_09_jetcache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_03_09_jetcache/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_03_10_TimeTask/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_03_11_mail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_03_11_mail/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_03_13_admin_client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_03_13_admin_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_30_startup/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_30_startup/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

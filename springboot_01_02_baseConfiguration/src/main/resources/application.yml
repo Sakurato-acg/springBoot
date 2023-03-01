@@ -5,11 +5,11 @@ server:
 spring:
   banner:
     image:
-      location: file:${baseDir}e56b7dfd16b5d3d693ede17fd1f76937223902.png
+      location: file:${baseDir}money.jpg
       bitdepth: 8
-      pixelmode: block
       invert: on
-      width: 250
+      pixelmode: text
+  #      width: 250
 
   datasource:
       type: com.alibaba.druid.pool.DruidDataSource
@@ -24,4 +24,4 @@ spring:
   # C:\Users\lpl\Desktop\图\P站\猫耳ちゃん.jpg
 # C:\Users\lpl\Desktop\图\电脑\70e2eee0cd780aa9b4824bbaba9f640c30682056.gif
 
-baseDir: C:\Users\lpl\Desktop\图\电脑\
+baseDir: C:\Users\lpl\Desktop\图\表情包\

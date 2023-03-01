@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot_03_03_test" />
+        <module name="spring_boot_03_13_admin_server" />
+        <module name="springboot_28_bean_load" />
+        <module name="springboot_01_02_baseConfiguration" />
+        <module name="springboot_03_13_admin_client" />
+        <module name="springboot_01_03_junit" />
+        <module name="springboot_29_bean_properties" />
+        <module name="springboot_01_05_mybatisPlus" />
+        <module name="springboot_03_02_configuration" />
+        <module name="springboot_03_10_TimeTask" />
+        <module name="springboot_01_04_mybatis" />
+        <module name="springboot_15_sql" />
+        <module name="springboot_03_08_cache" />
+        <module name="Springboot_03_12_mq" />
+        <module name="springboot_03_11_mail" />
+        <module name="springboot_02_config" />
+        <module name="springboot_03_13_admin_server" />
+        <module name="springboot_27_bean_init" />
+        <module name="springboot_01_06_ssmp" />
+        <module name="springboot_03_06_mongodb" />
+        <module name="springboot_03_09_jetcache" />
+        <module name="springboot_02_log" />
+        <module name="springboot_30_startup" />
+        <module name="springboot_01_01_quickStart" />
+        <module name="springboot_03_07_ES" />
+        <module name="springboot_03_05_redis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="17" />
+      <module name="spring_boot_03_13_admin_server" target="1.8" />
+      <module name="springboot_01_01_quickStart" target="1.8" />
+      <module name="springboot_01_02_baseConfiguration" target="1.8" />
+      <module name="springboot_01_03_junit" target="1.8" />
+      <module name="springboot_01_04_mybatis" target="1.8" />
+      <module name="springboot_01_05_mybatisPlus" target="16" />
+      <module name="springboot_01_06_ssmp" target="1.8" />
+      <module name="springboot_02_config" target="1.8" />
+      <module name="springboot_02_log" target="1.8" />
+      <module name="springboot_03_02_configuration" target="1.8" />
+      <module name="springboot_03_03_test" target="1.8" />
+      <module name="springboot_03_05_redis" target="1.8" />
+      <module name="springboot_03_06_mongodb" target="1.8" />
+      <module name="springboot_03_07_ES" target="1.8" />
+      <module name="springboot_03_08_cache" target="1.8" />
+      <module name="springboot_03_09_jetcache" target="1.8" />
+      <module name="springboot_03_10_TimeTask" target="1.8" />
+      <module name="springboot_03_11_mail" target="1.8" />
+      <module name="springboot_03_12_mq" target="1.8" />
+      <module name="Springboot_03_12_mq" target="1.8" />
+      <module name="springboot_03_13_admin_client" target="1.8" />
+      <module name="springboot_03_13_admin_server" target="1.8" />
+      <module name="springboot_15_sql" target="1.8" />
+      <module name="springboot_20_jetcache" target="1.8" />
+      <module name="springboot_27_bean_init" target="8" />
+      <module name="springboot_28_bean_load" target="8" />
+      <module name="springboot_29_bean_properties" target="8" />
+      <module name="springboot_30_startup" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Springboot_03_12_mq" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="spring_boot_03_13_admin_server" options="-parameters" />
+      <module name="springboot_01_01_quickStart" options="-parameters" />
+      <module name="springboot_01_02_baseConfiguration" options="-parameters" />
+      <module name="springboot_01_03_junit" options="-parameters" />
+      <module name="springboot_01_04_mybatis" options="-parameters" />
+      <module name="springboot_01_05_mybatisPlus" options="-parameters" />
+      <module name="springboot_01_06_ssmp" options="-parameters" />
+      <module name="springboot_02_config" options="-parameters" />
+      <module name="springboot_02_log" options="-parameters" />
+      <module name="springboot_03_02_configuration" options="-parameters" />
+      <module name="springboot_03_03_test" options="-parameters" />
+      <module name="springboot_03_05_redis" options="-parameters" />
+      <module name="springboot_03_06_mongodb" options="-parameters" />
+      <module name="springboot_03_07_ES" options="-parameters" />
+      <module name="springboot_03_08_cache" options="-parameters" />
+      <module name="springboot_03_09_jetcache" options="-parameters" />
+      <module name="springboot_03_10_TimeTask" options="-parameters" />
+      <module name="springboot_03_11_mail" options="-parameters" />
+      <module name="springboot_03_12_mq" options="-parameters" />
+      <module name="springboot_03_13_admin_client" options="-parameters" />
+      <module name="springboot_03_13_admin_server" options="-parameters" />
+      <module name="springboot_15_sql" options="-parameters" />
+      <module name="springboot_20_jetcache" options="-parameters" />
+      <module name="springboot_30_startup" options="-parameters" />
+    </option>
+  </component>
+</project>
